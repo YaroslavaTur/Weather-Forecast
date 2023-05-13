@@ -1,0 +1,28 @@
+
+        .title{
+            width: 750px;
+            text-align: center;
+            margin: 0px;
+        }
+        #weatherBlock {
+            display: flex;
+            
+        }
+
+        .cityWeather{
+            width: 200px;
+            margin: 15px;
+            background-color: lightskyblue;
+            padding: 10px;
+            color: darkblue;
+        }
+
+       #weatherBlock h2 {
+        margin-top: 5px;
+       }
+
+       #weatherBlock span {
+        font-weight: bold; 
+       }
+
+    
